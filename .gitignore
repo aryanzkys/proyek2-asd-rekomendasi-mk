@@ -1,0 +1,5 @@
+*.class
+*.png
+hasil_pengujian.txt
+sample_data/
+.config/
